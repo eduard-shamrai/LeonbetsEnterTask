@@ -1,0 +1,2 @@
+http-client:
+    threads-number: 3
